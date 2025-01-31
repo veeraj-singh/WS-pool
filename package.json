@@ -1,0 +1,19 @@
+{
+  "name": "redis-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/uuid": "^10.0.0",
+    "@types/ws": "^8.5.14",
+    "redis": "^4.7.0",
+    "uuid": "^11.0.5",
+    "ws": "^8.18.0"
+  }
+}
